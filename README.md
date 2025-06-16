@@ -4,23 +4,29 @@ This portfolio highlights around 40% of my professional work in software develop
 <a href="./nuttapol-thitaweera-portfolio.pdf" target="_blank">Download PDF</a>
 ## Projects
 
-**Comp-moto POS** <span style="float:right;">Aug 2024 - Present </span>  
-**Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)\
+**Comp-moto POS** <span style="float:right;">Aug 2024 - Mar 2025 </span>  
+**Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
+**Description:** 
 **Responsibilities:**
 - Crafted intuitive database structures and CMS frontends, ensuring user-friendly interfaces.
 - Effectively delegated tasks, optimizing team performance and timely delivery.
 - Established robust project environments with essential tools and frameworks, paving the way for seamless development.
-- Developed comprehensive CMS frontends and backend logic to enhance functionality.
+- Developed comprehensive CMS frontends and backend logic to enhance functionality  
 
+**Achievements**  
+- Designed a fully customized POS system tailored to Comp-moto’s business workflows and operational structure  
+- Enabled stock synchronization between the custom POS system and Microsoft Dynamics 365  
+- Improved staff productivity and accuracy by streamlining UI/UX across POS terminals and CMS dashboards
 
-**Description:** \
 **Link:** [https://comp-moto.smartsoftasia.com/admin/sign-in](https://comp-moto.smartsoftasia.com/admin/sign-in)  
 
 _________________
 
 **Foamtec International Internal System** <span style="float:right;">Nov 2023 - Jul 2024 </span>  
 **Technologies:** [Next.js v14.1.4](https://github.com/vercel/next.js/), 
-[nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)\
+[nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+**Description:** 
 **Responsibilities:**
 - Developed efficient database designs and intuitive CMS frontends.
 - Delegated tasks to team members, ensuring smooth and timely project execution.
@@ -28,13 +34,13 @@ _________________
 - Implemented CMS frontends and backend logic for critical areas such as Material Management, Work Centers, BOMs, Tooling, Routing, Material Planning, and Production Orders.
 - Created a RESTful API for the Flutter application, enhancing system interoperability.
 
-**Description:** \
 **Link:** [https://foamtec.smartsoftasia.com/](https://foamtec.smartsoftasia.com/)  
 
 _________________
 
 **DASTA-SMARTCBT** <span style="float:right;">Aug 2023 - Oct 2024 </span>  
 **Technologies:** [Next.js v13.5.6](https://github.com/vercel/next.js/),  [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)  
+**Description:** 
 **Responsibilities:**
 - Created detailed quotations and comprehensive project estimates.
 - Delegated tasks efficiently to enhance project delivery timelines.
@@ -42,9 +48,6 @@ _________________
 - Established project environments with all requisite tools and frameworks, setting the stage for development success.
 - Developed engaging web frontends for diverse projects, including Project Creation, Carbon Footprint, and SIA/SROI.
 
-
-
-**Description:** \
 **Link:** [Youtube](https://www.youtube.com/watch?v=fnVUfYz_QEc), [https://smartcbt.dasta.or.th/login](https://smartcbt.dasta.or.th/login)  
 
 
@@ -58,7 +61,7 @@ _________________
 - Prepared detailed quotations and comprehensive project estimates.
 - Designed robust database structures tailored for application needs.
 - Developed RESTful APIs for Flutter applications and web frontends, encompassing User Authentication, Branches, Products, Product Options, Promotions, and Shopping Carts.
-
+- Delivered complete CMS features—from initial design through production deployment—fully aligned with business goals and client expectations  
 
 **Description:** \
 **Link:** [https://app.elmercadobangkok.com](https://app.elmercadobangkok.com/admin/sign-in)  
@@ -70,6 +73,9 @@ _________________
 
 **Volvo Car Thailand Distribution Center (VCTPDS)** <span style="float:right;">Nov 2022 - May 2024 </span>  
 **Technologies:** [Next.js v13.1.6](https://github.com/vercel/next.js/), [prisma](https://github.com/prisma/prisma), [next-auth](https://github.com/nextauthjs/next-auth), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)  
+
+**Description:** VCT-DS serves as an internal Pre-Delivery Inspection (PDI) and Pre-Delivery Service Checklist for new cars, guaranteeing that all vehicles meet stringent quality standards before delivery, thus enhancing customer satisfaction and operational efficiency.
+
 **Responsibilities:**
 - Developed detailed quotations and accurate project estimates.
 - Crafted database designs and a comprehensive CMS for user interactions.
@@ -78,9 +84,15 @@ _________________
 - Developed a RESTful API for the Flutter application and web frontend, ensuring seamless user experiences.
 - Delivered CMS frontend features from inception through deployment, aligning with project goals and client expectations.
 
-**Description:** VCTDS serves as an internal Pre-Delivery Inspection (PDI) and Pre-Delivery Service Checklist for new cars, guaranteeing that all vehicles meet stringent quality standards before delivery, thus enhancing customer satisfaction and operational efficiency.\
+**Achievements**  
+- Successfully helped manage and inspect over 8,000 vehicles (and counting), significantly improving operational oversight and reducing delivery delays 
+- Improved inspection workflow visibility and digital documentation accuracy through centralized CMS and reporting  
+- Enabled seamless coordination across roles including PDI staff, managers, and logistics via custom role-based access control
+
 **Link:** [https://vctpds.com/](https://vctpds.com/)  
 
+![https://vctpds.com/](./images/vctpds-cms1.png)
+![https://vctpds.com/](./images/vctpds-cms2.png)
 ![https://vctpds.com/](./images/vctpds.png)
 
 _________________
@@ -106,12 +118,16 @@ _________________
 
 **Villeroy & Boch** <span style="float:right;">May 2022 - Aug 2022 </span>  
 **Technologies:** [Next.js v12.1.5](https://github.com/vercel/next.js/), [prisma](https://github.com/prisma/prisma), [next-auth](https://github.com/nextauthjs/next-auth), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)  
+
+**Description:** The 1748 Club is designed for ease of use, rewarding users with points for various actions that can be redeemed for special offers.
+
 **Responsibilities:**
 - Developed user-friendly web frontends that enhance customer engagement and satisfaction.
 
-**Description:** The 1748 Club is designed for ease of use, rewarding users with points for various actions that can be redeemed for special offers.\
 **Link:** [https://1748club.asia/](https://1748club.asia/) 
 
+**Achievements**  
+- Improved the existing website by optimizing performance and modernizing the tech stack for a better user experience
 
 ![https://1748club.asia/](./images/1748club.png)
 _________________
@@ -133,12 +149,12 @@ _________________
 
 _________________
 
-**Description:** evRiderz is dedicated to providing green transportation solutions via electric vehicles. Their offerings include ridesharing, food delivery, and income opportunities for drivers. The platform incorporates electric motorcycles (e-bikes) and features such as battery swaps to minimize downtime, all while promoting eco-friendly transportation that benefits users and the environment.\
+**Description:** evRiderz is dedicated to providing green transportation solutions via electric vehicles. Their offerings include ridesharing, food delivery, and income opportunities for drivers. The platform incorporates electric motorcycles (e-bikes) and features such as battery swaps to minimize downtime, all while promoting eco-friendly transportation that benefits users and the environment.
 **Link:** [evRiderz](https://evriderz.com/)   
 
-![https://evriderz.com/](./images/evRiderz.png)
+![](./images/evRiderz.png)
 
-![https://evriderz.com/](./images/evDriverz.png)
+![](./images/evDriverz.png)
 
 
 _________________
@@ -148,10 +164,9 @@ _________________
 **Responsibilities:**
 - Developed two innovative iOS applications that significantly enhance user functionality and experience through thoughtful design and technological integration.
 
-**Description:** \
 **Link:** [App Store](https://apps.apple.com/us/app/perfumist-perfumes-advisor/id631338649) 
 
-![https://apps.apple.com/us/app/perfumist-perfumes-advisor/id631338649/](./images/perfumist.png)
+![](./images/perfumist.png)
 
 _________________
 
@@ -159,7 +174,8 @@ _________________
 
 
 **SBITO** <span style="float:right;">Nov 2020 - Jan 2021 </span>  
-**Technologies:** [Swift v5.3.1](https://github.com/swiftlang/swift)\
+**Technologies:** [Swift v5.3.1](https://github.com/swiftlang/swift)
+
 **Responsibilities:**
 - Led the development of the account opening section of the SBITO iOS application (native).
 - Streamlined the account creation process through a step-by-step guided approach.
@@ -170,20 +186,38 @@ _________________
   - Integration with major banks for swift validation.
 - Simplified and expedited the account creation process, significantly improving the overall user experience.
 
-**Description:** \
+**Link:** [App Store](https://apps.apple.com/th/app/sbito/id1533272611)
 
-![https://apps.apple.com/th/app/sbito/id1533272611](./images/sbito.png)
+![](./images/sbito.png)
+
+_________________
+
+
+**Siam Piwat  Indoormap SDK for iOS, React-Native** <span style="float:right;">Jun 2020 - Jan 2021 </span>  
+**Technologies:** [Swift v5.3.2](https://github.com/swiftlang/swift), [mappedin](https://www.mappedin.com/)
+
+**Responsibilities:**
+- Developed an indoor map navigation SDK in Swift for iOS and React Native integration  
+- Implemented place search functionality and real-time route simulation  
+- Created a navigation simulation engine to visualize user movement across indoor routes  
+- Provided bridge support for React Native apps using native module exports  
+
+
+![](./images/onesiam-indoormap-sdk.png)
 
 _________________
 
 
 
+
 **Tripniceday** <span style="float:right;">Jul 2019 - May 2020 </span>  
 **Technologies:** [Swift v5.0.1](https://github.com/swiftlang/swift), [RxSwift v5](https://github.com/ReactiveX/RxSwift), [dart v2.10.0-110](https://github.com/dart-lang/sdk), [flutter v1.16.3](https://github.com/flutter/flutter)\
+**Description:** TripNiceDay is a travel planning platform aimed at helping users explore Thailand more effectively. Launched in 2019, it serves as a resource for discovering local attractions, dining options, and cultural experiences across the country's 77 provinces. The platform aspires to inspire users to venture beyond familiar territories and explore new destinations.
+
 **Responsibilities:**
 - Developed the iOS applications for the MVP version and cross-platform solutions using Flutter for the initial release.
 
-**Description:** TripNiceDay is a travel planning platform aimed at helping users explore Thailand more effectively. Launched in 2019, it serves as a resource for discovering local attractions, dining options, and cultural experiences across the country's 77 provinces. The platform aspires to inspire users to venture beyond familiar territories and explore new destinations.\
+
 **Link:** [https://www.tripniceday.com/](https://www.tripniceday.com/),  [App store](https://apps.apple.com/th/app/tripniceday/id1544660248), [Play Store](https://play.google.com/store/apps/details?id=com.tripniceday.navipitta_mobile)    
 
 ![https://www.tripniceday.com/](./images/TND-MVP.png)
@@ -195,14 +229,13 @@ _________________
 
 **Rabbit Rewards** <span style="float:right;">Mar 2019 - May 2021 </span>  
 **Technologies:** [Swift v5.4](https://github.com/swiftlang/swift)  
+**Description:** 
 **Responsibilities:**
 - Effectively delegated tasks to ensure project milestones were met on time.
 - Set up project environments, equipping the team with the necessary tools for success.
 - Developed innovative iOS applications, enhancing functionality and user experience through cutting-edge design and technology integration.
 
-**Description:** 
-
-![https://apps.apple.com/us/app/perfumist-perfumes-advisor/id631338649/](./images/rabbit-rewards.png)
+![](./images/rabbit-rewards.png)
 
 _________________
 
@@ -216,10 +249,57 @@ _________________
 
 **Link:** [Youtube](https://www.youtube.com/watch?v=Vf472uy2-NQ)
 
-![https://www.youtube.com/watch?v=Vf472uy2-NQ](./images/bootcampdemy.png)
+![](./images/bootcampdemy.png)
 _________________
 
 
+
+
+**bemynt** <span style="float:right;">Jul 2017 - Aug 2017 </span>  
+**Technologies:** [Swift v3.1](https://github.com/swiftlang/swift), WooCommerce REST API
+**Responsibilities:**
+- Developed a mobile e-commerce app with full integration to WooCommerce via REST API  
+- Built core shopping features including product listing, detail views, and wishlist  
+- Designed and developed secure checkout, order confirmation, and payment flow with support for multiple cards  
+- Created personalized feed and reward activity tracking for enhanced user engagement  
+- Integrated promotional banners, personalized recommendations, and category-based browsing  
+
+![](./images/bemynt.png)
+_________________
+
+
+**Eat Shop Pay** <span style="float:right;">Jun 2017 - Jun 2017 </span>  
+**Technologies:** [Swift 3.1](https://github.com/swiftlang/swift)
+  
+**Description:** A travel and lifestyle application designed to enhance the experience of tourists and locals in Thailand. It offers curated privileges such as discounts, free offers, and rewards across dining, shopping, golf, and popular tourist attractions. The app also features integrated service information, flight schedules, and acts as a collaborative promotion platform for Visa, Thai Airways, and the Tourism Authority of Thailand.
+
+**Responsibilities:**
+- Led full app development, from UI design to feature implementation  
+- Built privilege listings, map navigation, and category-based browsing  
+- Integrated service directories and promotional campaigns (Visa, Thai Airways)  
+- Ensured a smooth, intuitive user experience across all features
+
+
+![](./images/eat-shop-pay.png)
+_________________
+
+
+**SmartLiving - SCG** <span style="float:right;">Feb 2017 - Jan 2019 </span>  
+**Technologies:** [Swift v3.1](https://github.com/swiftlang/swift), [CocoaMQTT](https://github.com/emqx/CocoaMQTT)
+**Description:** An IoT-based application that allows users to monitor, control, and manage their home systems remotely—keeping their homes safe, efficient, and under control. With this application you can monitor, control and keep track of your house performance.
+
+**Responsibilities:**
+- Integrated WellAir setup for smart air quality monitoring and control  
+- Developed historical graph visualization to display sensor and environmental trends over time  
+- Performed continuous bug fixing and performance optimization to improve app stability and responsiveness  
+- Collaborated with backend and hardware teams to fine-tune MQTT communication for real-time control and feedback  
+
+**Link:** [App Store](https://apps.apple.com/th/app/smartliving-scg/id1193514711) 
+
+![](./images/scg-smart-living.png)
+
+
+_________________
 
 
 **Tops Supermarket** <span style="float:right;">Oct 2015 - Jun 2017 </span>  
@@ -228,9 +308,33 @@ _________________
 - Set up project environments to ensure that all essential tools and frameworks were in place for smooth development.
 - Developed comprehensive e-commerce applications, enhancing both functionality and user experience through seamless technology integration.
 - Integrated the 2C2P payment system, enabling secure and efficient transaction processing.
-**Link:** [https://www.tops.co.th/](https://www.tops.co.th/)
 
-[<img src="./images/tops.jpg" width="80%"/>](./images/tops.jpg)
+**Link:** [https://www.tops.co.th/](https://www.tops.co.th/) [App Store](https://apps.apple.com/th/app/tops-online-food-grocery/id541492660) 
+
+![](./images/tops.png)
+_________________
+
+
+
+
+**Opencall App** <span style="float:right;">May 2015 - Jun 2017 </span>  
+**Technologies:** [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), [Core Data](https://developer.apple.com/documentation/coredata)  
+  
+
+**Description:** OpenCall is the premier platform built to effortlessly connect brands, creatives, and talents within the fashion industry. The app simplifies discovery, communication, and booking—bringing all key players together in one seamless experience.
+
+**Responsibilities:**
+- Implemented event creation workflows and detailed event listings with rich metadata  
+- Built and managed the community module, enabling user interaction and collaboration  
+- Developed team creation features to support group-based networking and project formation  
+- Created and optimized the feed for dynamic content updates and user engagement  
+- Designed and integrated custom animations to elevate the user experience and interface polish  
+- Integrated in-app subscription functionality to support monetization and gated access to premium features  
+
+
+**Link:** [instagram](https://www.instagram.com/joinopencall/)
+
+![](./images/opencall.png)
 _________________
 
 
@@ -240,11 +344,11 @@ _________________
 **Responsibilities:**
 - Designed and developed a native iOS music streaming application for fungjai.com, focusing on user-friendly interfaces and seamless streaming experiences.
 
-[<img src="./images/fungjai.jpg" width="80%"/>](./images/fungjai.jpg)
+![](./images/fungjai.jpg)
 _________________
 
 
-**Ais Guide & Go** <span style="float:right;">May 2014 - Dec 2014</span>  
+**AIS Guide & Go** <span style="float:right;">May 2014 - Dec 2014</span>  
 **Technologies:** [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
 **Responsibilities:**
 - Designed and implemented interactive feature displays for the AIS Guide & Go application on Pioneer’s A/V Receiver device, prior to the introduction of CarPlay.
