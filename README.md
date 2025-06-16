@@ -282,7 +282,7 @@ _________________
 
 
 
-**bemynt** <span style="float:right;">Jul 2017 - Aug 2017 </span>  
+**bemynt - Minor International** <span style="float:right;">Jul 2017 - Aug 2017 </span>  
 **Technologies:** [Swift v3.1](https://github.com/swiftlang/swift), WooCommerce REST API
 **Responsibilities:**
 - Developed a mobile e-commerce app with full integration to WooCommerce via REST API  
@@ -324,8 +324,25 @@ _________________
 **Link:** [App Store](https://apps.apple.com/th/app/smartliving-scg/id1193514711) 
 
 ![](./images/scg-smart-living.png)
+_________________
 
 
+**Stroll Guam Rider & Driver App V1 and V3** <span style="float:right;">Nov 2015 - Jul 2021 </span>  
+**Technologies:** [Swift v4](https://github.com/swiftlang/swift), [socket.io](https://socket.io/), [twilio](https://www.twilio.com/en-us), [authorize.net](https://www.authorize.net/)        
+
+**Description:** A ride-hailing application available in Guam
+
+**Responsibilities:**
+- Developed and maintained both rider and driver iOS applications across multiple versions  
+- Integrated real-time communication using Socket.IO for live ride status and driver updates  
+- Implemented Twilio for in-app messaging and call features between riders and drivers  
+- Integrated Authorize.Net for secure in-app payment processing  
+- Refactored and optimized core features in V3 to improve stability and user experience  
+- Collaborated with backend developers to align API integrations and ensure seamless functionality
+
+**Link:** [Stroll Rider](https://apps.apple.com/us/app/stroll-guam-ride-hailing/id1571713681), [Stroll Driver](https://apps.apple.com/us/app/stroll-driver/id6738683762) 
+
+![](./images/strollguam-ios.png)
 _________________
 
 
