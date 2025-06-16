@@ -311,6 +311,23 @@ _________________
 _________________
 
 
+**Canyudo** <span style="float:right;">Mar 2017 - May 2017 </span>  
+**Technologies:** [Swift 3.1](https://github.com/swiftlang/swift), [realm-swift](https://github.com/realm/realm-swift)
+  
+**Description:**  
+Canyudo is a social tasking app designed to promote prosocial behavior and community engagement. It allows users to post and accept jobs, tasks, or events.
+
+**Responsibilities:**
+- Implemented task-related features including My Tasks, New Tasks, Group, and Group Tasks  
+- Designed and developed task interaction flows and user data handling with Realm  
+- Collaborated with designers to maintain a clean, distraction-free UX aligned with gamification and social-good principles  
+- Integrated early support for blockchain-based logic and transaction handling
+
+
+![](./images/canyudo.png)
+_________________
+
+
 **SmartLiving - SCG** <span style="float:right;">Feb 2017 - Jan 2019 </span>  
 **Technologies:** [Swift v3.1](https://github.com/swiftlang/swift), [CocoaMQTT](https://github.com/emqx/CocoaMQTT)
 **Description:** An IoT-based application that allows users to monitor, control, and manage their home systems remotely—keeping their homes safe, efficient, and under control. With this application you can monitor, control and keep track of your house performance.
