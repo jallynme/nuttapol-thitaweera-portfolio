@@ -4,49 +4,76 @@ This portfolio highlights around 40% of my professional work in software develop
 <a href="./nuttapol-thitaweera-portfolio.pdf" target="_blank">Download PDF</a>
 ## Projects
 
+**B-Accounting Internal system** <span style="float:right;">Mar 2025 - Present </span>  
+**Technologies:** [Next.js 15.3.2](https://github.com/vercel/next.js/), [shadcn](https://ui.shadcn.com/), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
+
+**Description:** An internal system designed to manage company resources, track staff resource, and monitor client service, report, meeting.
+
+**Responsibilities:**
+- Designed intuitive database schemas and CMS interfaces for seamless user interaction  
+- Developed full-stack CMS features to support robust backend logic and usability
+
+**Achievements:**  
+
+**Link:** [https://b-accounting.smartsoftasia.com/sign-in](https://b-accounting.smartsoftasia.com/sign-in)  
+
+![](./images/b-accounting1.png)
+![](./images/b-accounting2.png)
+
 **Comp-moto POS** <span style="float:right;">Aug 2024 - Mar 2025 </span>  
 **Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
-**Description:** 
-**Responsibilities:**
-- Crafted intuitive database structures and CMS frontends, ensuring user-friendly interfaces.
-- Effectively delegated tasks, optimizing team performance and timely delivery.
-- Established robust project environments with essential tools and frameworks, paving the way for seamless development.
-- Developed comprehensive CMS frontends and backend logic to enhance functionality  
+**Description:** A custom POS solution built for Comp-moto to streamline sales operations, inventory, and admin workflows.
 
-**Achievements**  
+
+**Responsibilities:**
+- Designed database structures and CMS frontends  
+- Set up scalable project environments 
+- Developed complete CMS features with integrated backend logic  
+- Delegated tasks efficiently to ensure smooth and timely delivery 
+
+**Achievements:**  
 - Designed a fully customized POS system tailored to Comp-moto’s business workflows and operational structure  
 - Enabled stock synchronization between the custom POS system and Microsoft Dynamics 365  
 - Improved staff productivity and accuracy by streamlining UI/UX across POS terminals and CMS dashboards
 
 **Link:** [https://comp-moto.smartsoftasia.com/admin/sign-in](https://comp-moto.smartsoftasia.com/admin/sign-in)  
 
+![](./images/compmoto1.png)
+![](./images/compmoto2.png)
+
 _________________
 
 **Foamtec International Internal System** <span style="float:right;">Nov 2023 - Jul 2024 </span>  
 **Technologies:** [Next.js v14.1.4](https://github.com/vercel/next.js/), 
 [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
-**Description:** 
+
+**Description:** An internal manufacturing control system for Foamtec International, built to streamline production workflows, manage tooling and materials, and monitor QC operations. The system supports both tablet and back-office users with role-based access to production dashboards, scheduling, and planning tools.
+
 **Responsibilities:**
 - Developed efficient database designs and intuitive CMS frontends.
 - Delegated tasks to team members, ensuring smooth and timely project execution.
 - Set up project environments that included essential tools and frameworks for a productive workflow.
-- Implemented CMS frontends and backend logic for critical areas such as Material Management, Work Centers, BOMs, Tooling, Routing, Material Planning, and Production Orders.
+- Implemented CMS frontends and backend logic for critical areas such as Material Management, Work Centers, BOMs, Tooling, Routing, Material Planning, Production Orders and QC.
 - Created a RESTful API for the Flutter application, enhancing system interoperability.
 
 **Link:** [https://foamtec.smartsoftasia.com/](https://foamtec.smartsoftasia.com/)  
 
+![](./images/foamtec1.png)
+![](./images/foamtec2.png)
 _________________
 
 **DASTA-SMARTCBT** <span style="float:right;">Aug 2023 - Oct 2024 </span>  
 **Technologies:** [Next.js v13.5.6](https://github.com/vercel/next.js/),  [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)  
-**Description:** 
+
+**Description:**  A digital platform built for DASTA (Designated Areas for Sustainable Tourism Administration), a Thai government agency under the Office of the Prime Minister. The system streamlines community-based tourism (CBT) operations through tools that support project management, carbon footprint tracking, and social/environmental impact assessments like SIA and SROI.
+
 **Responsibilities:**
-- Created detailed quotations and comprehensive project estimates.
-- Delegated tasks efficiently to enhance project delivery timelines.
-- Collaborated closely with the project manager to streamline sprint planning sessions, fostering team cohesion and efficiency.
-- Established project environments with all requisite tools and frameworks, setting the stage for development success.
-- Developed engaging web frontends for diverse projects, including Project Creation, Carbon Footprint, and SIA/SROI.
+- Created detailed quotations and project estimations to scope development accurately  
+- Delegated tasks and oversaw progress to ensure timely delivery  
+- Collaborated with project managers to facilitate effective sprint planning  
+- Set up and maintained the development environment for the engineering team  
+- Developed modern, responsive web frontends for key modules including Project Creation, Carbon Footprint, and SIA/SROI evaluations  
 
 **Link:** [Youtube](https://www.youtube.com/watch?v=fnVUfYz_QEc), [https://smartcbt.dasta.or.th/login](https://smartcbt.dasta.or.th/login)  
 
@@ -84,7 +111,7 @@ _________________
 - Developed a RESTful API for the Flutter application and web frontend, ensuring seamless user experiences.
 - Delivered CMS frontend features from inception through deployment, aligning with project goals and client expectations.
 
-**Achievements**  
+**Achievements:**  
 - Successfully helped manage and inspect over 8,000 vehicles (and counting), significantly improving operational oversight and reducing delivery delays 
 - Improved inspection workflow visibility and digital documentation accuracy through centralized CMS and reporting  
 - Enabled seamless coordination across roles including PDI staff, managers, and logistics via custom role-based access control
@@ -126,7 +153,7 @@ _________________
 
 **Link:** [https://1748club.asia/](https://1748club.asia/) 
 
-**Achievements**  
+**Achievements:**  
 - Improved the existing website by optimizing performance and modernizing the tech stack for a better user experience
 
 ![https://1748club.asia/](./images/1748club.png)
