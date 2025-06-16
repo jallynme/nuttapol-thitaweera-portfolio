@@ -377,6 +377,21 @@ _________________
 
 
 
+**Central Food Hall iPad Kiosk App** <span style="float:right;">June 2015 - Feb 2017 </span>  
+**Technologies:** [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), [Core Data](https://developer.apple.com/documentation/coredata), [Apple Configurator](https://support.apple.com/apple-configurator) Wordpress APIs  
+
+**Description:** An enterprise iPad kiosk application deployed across Central Food Hall locations. The app displays a digital catalog of products and promotions, offering customers an interactive in-store browsing experience.
+
+**Responsibilities:**
+- Bug fixes and Improvements
+- Setup Apple Configurator for deployment and management of iPad in an organization
+- Configure large numbers of devices connected to a Mac via USB, applying specific settings, apps, and data.
+
+![](./images/central-food-hall.png)
+
+_________________
+
+
 
 **Opencall App** <span style="float:right;">May 2015 - Jun 2017 </span>  
 **Technologies:** [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), [Core Data](https://developer.apple.com/documentation/coredata)  
