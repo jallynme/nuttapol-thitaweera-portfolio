@@ -20,11 +20,12 @@ This portfolio highlights around 40% of my professional work in software develop
 ![](./images/b-accounting1.png)
 ![](./images/b-accounting2.png)
 
+<div style="page-break-after: always;"></div>
+
 **Comp-moto POS** <span style="float:right;">Aug 2024 - Mar 2025 </span>  
 **Technologies:** [Next.js v15.0.2](https://github.com/vercel/next.js/), [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
 **Description:** A custom POS solution built for Comp-moto to streamline sales operations, inventory, and admin workflows.
-
 
 **Responsibilities:**
 - Designed database structures and CMS frontends  
@@ -44,6 +45,8 @@ This portfolio highlights around 40% of my professional work in software develop
 
 _________________
 
+<div style="page-break-after: always;"></div>
+
 **Foamtec International Internal System** <span style="float:right;">Nov 2023 - Jul 2024 </span>  
 **Technologies:** [Next.js v14.1.4](https://github.com/vercel/next.js/), 
 [nextui](https://github.com/nextui-org/nextui), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
@@ -60,7 +63,6 @@ _________________
 **Link:** [https://foamtec.smartsoftasia.com/](https://foamtec.smartsoftasia.com/)  
 
 ![](./images/foamtec1.png)
-![](./images/foamtec2.png)
 _________________
 
 **DASTA-SMARTCBT** <span style="float:right;">Aug 2023 - Oct 2024 </span>  
@@ -80,6 +82,8 @@ _________________
 
 ![https://smartcbt.dasta.or.th/login](./images/dasta.png)
 
+<div style="page-break-after: always;"></div>
+
 _________________
 
 **El mercado** <span style="float:right;">June 2023 - July 2023 </span>  
@@ -97,6 +101,8 @@ _________________
 ![https://app.elmercadobangkok.com/admin/sign-in](./images/elmercado.png)
 
 _________________
+
+<div style="page-break-after: always;"></div>
 
 **Volvo Car Thailand Distribution Center (VCTPDS)** <span style="float:right;">Nov 2022 - May 2024 </span>  
 **Technologies:** [Next.js v13.1.6](https://github.com/vercel/next.js/), [prisma](https://github.com/prisma/prisma), [next-auth](https://github.com/nextauthjs/next-auth), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)  
@@ -118,11 +124,12 @@ _________________
 
 **Link:** [https://vctpds.com/](https://vctpds.com/)  
 
-![https://vctpds.com/](./images/vctpds-cms1.png)
 ![https://vctpds.com/](./images/vctpds-cms2.png)
 ![https://vctpds.com/](./images/vctpds.png)
 
 _________________
+
+<div style="page-break-after: always;"></div>
 
 **JUST CAR** <span style="float:right;">Aug 2022 - Aug 2023 </span>  
 **Technologies:** [Next.js v12.2.5](https://github.com/vercel/next.js/), [prisma](https://github.com/prisma/prisma), [next-auth](https://github.com/nextauthjs/next-auth), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)  
@@ -137,11 +144,11 @@ _________________
 **Description:** JUST CAR is a dynamic platform for buying and selling used cars, offering users the ability to sell any model or year of vehicle while providing access to a range of quality used cars at competitive prices. The platform also supports various models to meet diverse customer needs, with numerous registered buyers eager to engage in transactions. Additionally, its affiliate company, JUST LOAN, offers loan services to assist customers with financial solutions.\
 **Link:** [https://justcar.co.th/](https://justcar.co.th/), [App Store](https://apps.apple.com/th/app/just/id1633206350),  [PlayStore](https://play.google.com/store/apps/details?id=com.justcar.justcar&hl=th&pli=1)  
 
-
 ![https://justcar.co.th/](./images/justcar.png)
 
-
 _________________
+
+<div style="page-break-after: always;"></div>
 
 **Villeroy & Boch** <span style="float:right;">May 2022 - Aug 2022 </span>  
 **Technologies:** [Next.js v12.1.5](https://github.com/vercel/next.js/), [prisma](https://github.com/prisma/prisma), [next-auth](https://github.com/nextauthjs/next-auth), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss), [headlessui](https://github.com/tailwindlabs/headlessui)  
@@ -159,6 +166,7 @@ _________________
 ![https://1748club.asia/](./images/1748club.png)
 _________________
 
+<div style="page-break-after: always;"></div>
 
 
 **evEatz APIs** <span style="float:right;">Jun 2020 - Oct 2022 </span>  
@@ -167,14 +175,10 @@ _________________
 - Developed RESTful APIs that empower both Rider and Driver applications, ensuring seamless communication and data exchange between the client and server.
 - Integrated the 2C2P payment system, enabling secure and efficient payment processing for users.
 
-_________________
-
 **evRiderz and evDriverz iOS Applications** <span style="float:right;">Mar 2021 - Oct 2020 </span>  
 **Technologies:**  [Swift v5.3](https://github.com/swiftlang/swift)\
 **Responsibilities:**
 - Developed feature-rich Rider and Driver applications that enhance the overall user experience.
-
-_________________
 
 **Description:** evRiderz is dedicated to providing green transportation solutions via electric vehicles. Their offerings include ridesharing, food delivery, and income opportunities for drivers. The platform incorporates electric motorcycles (e-bikes) and features such as battery swaps to minimize downtime, all while promoting eco-friendly transportation that benefits users and the environment.
 **Link:** [evRiderz](https://evriderz.com/)   
@@ -185,6 +189,8 @@ _________________
 
 
 _________________
+
+<div style="page-break-after: always;"></div>
 
 **Perfumist** <span style="float:right;">Aug 2019 - May 2021 </span>  
 **Technologies:**  [Swift v5.4](https://github.com/swiftlang/swift)\
@@ -198,7 +204,7 @@ _________________
 _________________
 
 
-
+<div style="page-break-after: always;"></div>
 
 **SBITO** <span style="float:right;">Nov 2020 - Jan 2021 </span>  
 **Technologies:** [Swift v5.3.1](https://github.com/swiftlang/swift)
@@ -219,6 +225,7 @@ _________________
 
 _________________
 
+<div style="page-break-after: always;"></div>
 
 **Siam Piwat  Indoormap SDK for iOS, React-Native** <span style="float:right;">Jun 2020 - Jan 2021 </span>  
 **Technologies:** [Swift v5.3.2](https://github.com/swiftlang/swift), [mappedin](https://www.mappedin.com/)
@@ -234,7 +241,7 @@ _________________
 
 _________________
 
-
+<div style="page-break-after: always;"></div>
 
 
 **Tripniceday** <span style="float:right;">Jul 2019 - May 2020 </span>  
@@ -252,6 +259,7 @@ _________________
 
 _________________
 
+<div style="page-break-after: always;"></div>
 
 
 **Rabbit Rewards** <span style="float:right;">Mar 2019 - May 2021 </span>  
@@ -266,7 +274,7 @@ _________________
 
 _________________
 
-
+<div style="page-break-after: always;"></div>
 
 **Bootcampdemy v2** <span style="float:right;">Aug 2018 - Jun 2019 </span>  
 **Technologies:** [react-native v0.62.3](https://github.com/facebook/react-native), [redux](https://github.com/reduxjs/redux) , [redux-thunk](https://github.com/reduxjs/redux-thunk), [styled-components](https://github.com/styled-components/styled-components)    
@@ -279,7 +287,7 @@ _________________
 ![](./images/bootcampdemy.png)
 _________________
 
-
+<div style="page-break-after: always;"></div>
 
 
 **bemynt - Minor International** <span style="float:right;">Jul 2017 - Aug 2017 </span>  
@@ -294,6 +302,7 @@ _________________
 ![](./images/bemynt.png)
 _________________
 
+<div style="page-break-after: always;"></div>
 
 **Eat Shop Pay** <span style="float:right;">Jun 2017 - Jun 2017 </span>  
 **Technologies:** [Swift 3.1](https://github.com/swiftlang/swift)
@@ -310,6 +319,7 @@ _________________
 ![](./images/eat-shop-pay.png)
 _________________
 
+<div style="page-break-after: always;"></div>
 
 **Canyudo** <span style="float:right;">Mar 2017 - May 2017 </span>  
 **Technologies:** [Swift 3.1](https://github.com/swiftlang/swift), [realm-swift](https://github.com/realm/realm-swift)
@@ -327,6 +337,7 @@ Canyudo is a social tasking app designed to promote prosocial behavior and commu
 ![](./images/canyudo.png)
 _________________
 
+<div style="page-break-after: always;"></div>
 
 **SmartLiving - SCG** <span style="float:right;">Feb 2017 - Jan 2019 </span>  
 **Technologies:** [Swift v3.1](https://github.com/swiftlang/swift), [CocoaMQTT](https://github.com/emqx/CocoaMQTT)
@@ -343,6 +354,7 @@ _________________
 ![](./images/scg-smart-living.png)
 _________________
 
+<div style="page-break-after: always;"></div>
 
 **Stroll Guam Rider & Driver App V1 and V3** <span style="float:right;">Nov 2015 - Jul 2021 </span>  
 **Technologies:** [Swift v4](https://github.com/swiftlang/swift), [socket.io](https://socket.io/), [twilio](https://www.twilio.com/en-us), [authorize.net](https://www.authorize.net/)        
@@ -363,6 +375,8 @@ _________________
 _________________
 
 
+<div style="page-break-after: always;"></div>
+
 **Tops Supermarket** <span style="float:right;">Oct 2015 - Jun 2017 </span>  
 **Technologies:** [Swift v2 - 3.1](https://github.com/swiftlang/swift)  
 **Responsibilities:**
@@ -375,7 +389,7 @@ _________________
 ![](./images/tops.png)
 _________________
 
-
+<div style="page-break-after: always;"></div>
 
 **Central Food Hall iPad Kiosk App** <span style="float:right;">June 2015 - Feb 2017 </span>  
 **Technologies:** [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html), [Core Data](https://developer.apple.com/documentation/coredata), [Apple Configurator](https://support.apple.com/apple-configurator) Wordpress APIs  
@@ -413,6 +427,7 @@ _________________
 ![](./images/opencall.png)
 _________________
 
+<div style="page-break-after: always;"></div>
 
 
 **Fungjai** <span style="float:right;">Jun 2015 - Aug 2015</span>  
@@ -423,6 +438,8 @@ _________________
 ![](./images/fungjai.jpg)
 _________________
 
+<div style="page-break-after: always;"></div>
+
 
 **AIS Guide & Go** <span style="float:right;">May 2014 - Dec 2014</span>  
 **Technologies:** [Objective-C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html)  
@@ -432,5 +449,7 @@ _________________
 
 ![](./images/aisguideandgo.png)
 _________________
+
+<div style="page-break-after: always;"></div>
 
 
