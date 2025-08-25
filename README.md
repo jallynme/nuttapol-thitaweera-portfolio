@@ -4,7 +4,7 @@ This portfolio highlights around 40% of my professional work in software develop
 <a href="./nuttapol-thitaweera-portfolio.pdf" target="_blank">Download PDF</a>
 ## Projects
 
-**B-Accounting Internal system** <span style="float:right;">Mar 2025 - June 2025 </span>  
+**B-Accounting Internal system** <span style="float:right;">Mar 2025 - Jun 2025 </span>  
 **Technologies:** [Next.js 15.3.2](https://github.com/vercel/next.js/), [shadcn](https://ui.shadcn.com/), [next-auth](https://github.com/nextauthjs/next-auth), [prisma](https://github.com/prisma/prisma), [CASL](https://github.com/stalniy/casl), [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
 
 **Description:** An internal system designed to manage company resources, track staff resource, and monitor client service, report, meeting.
